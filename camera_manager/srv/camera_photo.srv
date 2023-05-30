@@ -1,0 +1,3 @@
+int32 choice
+---
+sensor_msgs/CompressedImage cam
